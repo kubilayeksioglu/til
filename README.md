@@ -23,3 +23,7 @@
 
 - Start with the end in the mind: If you're building for user, think about what user would like to see/do. If you want to pick holiday, think about possible holidays, pick the one you liked the most and move backwards from there.
 - When you're building something new, ask yourself what is the "hello world" of this thing, i.e. what is the simplest form of this problem that if it was available we would be able to build on top of it.
+
+## Project Management
+
+- Each User Story should include at least 3 sections: Context, Acceptance Criteria, Error Handling. Without error handling, the work would only include happy path scenarios.
