@@ -9,6 +9,7 @@
 - If everyone is working at full capacity, they cannot grow. You need to allow your team to explore, instead of full exploitation.
 - You should always look for hires, even if you're not hiring. Similar to customers, you need a hiring pipeline. Otherwise, one of your team members will leave and you'll be in a tough position. In these moments, you'll be thankful previous relatively light workloads because your team will still have one more gear to use.
 - It's cheaper to make your current employees happy, rather than finding new ones. On average, a new employee will take 3 months to reach their 4th gear.
+- Create scenarios where your team improves themselves, and creates value. This only happens when task is challenging, and people are allowed to work in their own way.
 - Never host database / files / artifacts yourself. 
 - Using boring stuff is fun.
 - No customer will pay you because you have a great backend, they'll pay you because you solve problems.
